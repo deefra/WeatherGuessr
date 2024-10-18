@@ -1,0 +1,32 @@
+
+.hidden {
+    display: none;
+}
+
+.map {
+    margin-top: 20px;
+    height: 512px;
+    width: 512px;
+}
+
+.question {
+    margin: 80px 20px;
+    font-size: 25px;
+}
+
+.game-data svg{
+   width: 30px;
+}
+
+.score {
+    margin-bottom: 50px;
+}
+
+.input input {
+    margin-right: 5px;
+}
+
+.alert {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
